@@ -1,0 +1,3 @@
+- European Commision 2023. _Quality of life in European cities_ [online]. Available from https://ec.europa.eu/regional_policy/information-sources/maps/quality-of-life_en [Accessed 07 May 2025].
+- Greenpeace 2023. _Climate and Public Transport Tickets in Europe_ [online]. Available from https://greenpeace.at/uploads/2023/05/report-climate-and-public-transport-tickets-in-europe.pdf [Accessed 07 May 2025].
+- ISGlobal Ranking of Cities. (n.d.) _Rankings_ [online]. Available from https://isglobalranking.org/ranking/#air [Acessed 07 May 2025].
